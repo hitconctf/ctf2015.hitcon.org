@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>HITCON CTF 2015</title>
+        <meta name="description" content="">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="shortcut icon" type="image/png" href="/static/favicon.ico"/>
+
+        <link rel="stylesheet" href="/static/css/normalize.css">
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans'>
+        <link rel="stylesheet" href="/static/css/main.css">
+
+<link rel="stylesheet" href="/static/js/vendor/fancybox/jquery.fancybox.css">
+<style>
+.fancybox-skin {
+	color: #ccc;
+	background-color: #333;
+}
+.fancybox-contents {
+	width: 800px;
+	height: 600px;
+}
+</style>
+
+        <script src="/static/js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <nav id="top-nav" class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <a class="navbar-brand" href="/">HITCON CTF 2015</a>
+                <ul class="nav navbar-nav">
+
+                    <li><a href="/dashboard.html">Dashboard</a></li>
+                    <li><a href="/scoreboard.html">Scoreboard</a></li>
+                    <li><a href="/trend.html">Trend</a></li>
+
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a id="timer" href="#"></a>
+                        <input type="hidden" id="contest_start_time" value="1445047200.0">
+                        <input type="hidden" id="contest_end_time" value="1445176800.0">
+                        <input type="hidden" id="current_time" value="1445245220.864269">
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+
+
+
+        <div id="content" class="container">
+
+<div class="col-lg-9">
+
+<div id="dashboard-announcements">
+  <ul></ul>
+</div>
+
+<div id="dashboard-problems">
+</div>
+
+<!--
+<div id="dashboard-submit">
+    <div class="form-group">
+        <input type="text" class="form-control" id="flag" placeholder="Submit flag here...">
+    </div>
+    <div class="form-group">
+        <button type="button" class="btn btn-default" id="flag_submit_button">Submit</button>
+        <span id="submit-status"></span>
+    </div>
+</div>
+-->
+
+</div><!-- .col-lg-9 -->
+<div class="col-lg-3">
+
+<div id="dashboard-scoreboard">
+	<table id="mini-scoreboard">
+		<tbody>
+		</tbody>
+	</table>
+</div>
+
+</div><!-- .col-lg-3 -->
+
+        </div>
+
+        <div id="footer">
+            <div class="container">
+                <p>&copy; 2015 HITCON</p>
+                <p>Contact: hitconctfcontact (at) hitcon.org</p>
+            </div>
+        </div>
+
+        <script src="/static/js/vendor/jquery-2.1.1.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <script src="/static/js/plugins.js"></script>
+        <script src="/static/js/main.js"></script>
+
+
+<script src="/static/js/vendor/fancybox/jquery.fancybox.pack.js"></script>
+<script src="/static/js/vendor/pidcrypt/pidcrypt_c.js"></script>
+<script src="/static/js/vendor/pidcrypt/pidcrypt_util_c.js"></script>
+<script src="/static/js/vendor/pidcrypt/sha256_c.js"></script>
+
+<script src="/static/js/encflag.js"></script>
+<script src="/static/js/dashboard.js"></script>
+
+    </body>
+</html>

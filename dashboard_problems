@@ -1,0 +1,716 @@
+
+
+
+
+<ul id="problem-list">
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Flag not Found</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p>Welcome to HITCON CTF 2015 Quals<br />Find the flag in <a href='http://ctf2015.hitcon.org' target='_blank'>ctf2015.hitcon.org</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-Flag-not-Found">
+				1
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">hard to say</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p>Ruby on Fails.<br />FLAG1: nc 54.199.215.185 9001<br />FLAG2: nc 54.199.215.185 9002<br />FLAG3: nc 54.199.215.185 9003<br />FLAG4: nc 54.199.215.185 9004</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/hard_to_say-151ba63da9ef7f11bcbba93657805f85.rb'>hard_to_say-151ba63da9ef7f11bcbba93657805f85.rb</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-hard-to-say-1">
+				50
+			</li>
+			
+			<li id="flag-id-hard-to-say-2">
+				50
+			</li>
+			
+			<li id="flag-id-hard-to-say-3">
+				50
+			</li>
+			
+			<li id="flag-id-hard-to-say-4">
+				50
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">PhishingMe</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p>Sent me a .doc, I will open it if your subject is "HITCON 2015"!<br />Find the flag under my file system. <br />p.s. I've enabled Macro for you. ^_________________^<br />phishing.me.hitcon.2015@gmail.com.</p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-PhishingMe">
+				200
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">fireblossom</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Fireblossom</b> is a type of Herb which appears as a small, magma-colored flower. It grows on Ash Blocks in the Underworld and can be cut with virtually any weapon or tool. You can also plant it in Clay Pots, on Planter Boxes, or on Ash Blocks using Fireblossom Seeds.<br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/3/35/Fireblossom-stages.png?version=d7a83bc3f606a963490b036be4068aa5"></img><br />nc 52.69.206.114 10002</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/fireblossom.tgz_4df066bc1cf4fc3dff4e76bda1d0bba86438f62f'>fireblossom.tgz_4df066bc1cf4fc3dff4e76bda1d0bba86438f62f</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-fireblossom">
+				150
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">moonglow</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Moonglow</b> is a type of Herb which appears as a bent stalk with a drooping blue-white flower. It grows in Jungle grass (surface Jungle and Underground Jungle) and can be cut with virtually any weapon or tool. It can also be planted in Clay Pots using Moonglow Seeds.<br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f2/Moonglow-stages.png?version=bcf494d1fbb481d89aade5cc182c9086"></img><br />nc 52.69.171.132 10001</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/moonglow.tgz_08f1639532677fb3f6c462cc74cd48f05dd20e60'>moonglow.tgz_08f1639532677fb3f6c462cc74cd48f05dd20e60</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-moonglow">
+				300
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">babyfirst</span><br>
+				<span class="tags">web</span>
+			</p></div>
+			 
+			<div class="description"><p>baby, do it first.<br /><a href='http://52.68.245.164' target='_blank'>http://52.68.245.164</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-babyfirst">
+				100
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">nanana</span><br>
+				<span class="tags">pwn, web</span>
+			</p></div>
+			 
+			<div class="description"><p>get the shell!<br /><a href='http://54.92.88.102' target='_blank'>http://54.92.88.102</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-nanana">
+				200
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Giraffe&#39;s Coffee</span><br>
+				<span class="tags">web</span>
+			</p></div>
+			 
+			<div class="description"><p>Find the flag!<br /><a href='http://52.69.0.204' target='_blank'>http://52.69.0.204</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-Giraffes-Coffee">
+				300
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">lalala</span><br>
+				<span class="tags">web</span>
+			</p></div>
+			 
+			<div class="description"><p>get the shell!<br /><a href='http://54.65.226.23' target='_blank'>http://54.65.226.23</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-lalala">
+				400
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Use-After-FLEE</span><br>
+				<span class="tags">pwn, web</span>
+			</p></div>
+			 
+			<div class="description"><p>Upload your SHELL and bypass the restriction :)<br />p.s. maybe you can solve this immediately if you have 0day :)<br /><a href='http://52.69.8.207' target='_blank'>http://52.69.8.207</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-Use-After-FLEE">
+				500
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">simple</span><br>
+				<span class="tags">crypto</span>
+			</p></div>
+			 
+			<div class="description"><p>Become admin!<br /><a href='http://52.69.244.164:51913' target='_blank'>http://52.69.244.164:51913</a></p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/simple-01018f60e497b8180d6c92237e2b3a67.rb'>simple-01018f60e497b8180d6c92237e2b3a67.rb</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-simple">
+				100
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">poooooooow</span><br>
+				<span class="tags">crypto</span>
+			</p></div>
+			 
+			<div class="description"><p>Get the flag.<br />nc 52.69.244.164 9003</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/pow-0ba8661a3fb7764ad3380a5b29117b7f.rb'>pow-0ba8661a3fb7764ad3380a5b29117b7f.rb</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-poooooooow">
+				200
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">guess</span><br>
+				<span class="tags">crypto</span>
+			</p></div>
+			 
+			<div class="description"><p>Just guess.<br />nc 52.69.244.164 9355</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/guess-6e9b0ecd86686b3b630ffba9e2aba3e4'>guess-6e9b0ecd86686b3b630ffba9e2aba3e4</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-guess">
+				300
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">rsabin</span><br>
+				<span class="tags">crypto</span>
+			</p></div>
+			 
+			<div class="description"><p>Classical things?</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/rsabin-a51076632142e074947b08396bf35ab2.tgz'>rsabin-a51076632142e074947b08396bf35ab2.tgz</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-rsabin">
+				314
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">random</span><br>
+				<span class="tags">crypto</span>
+			</p></div>
+			 
+			<div class="description"><p>Completely random.<br />nc 52.69.244.164 7603</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/random-55f3d469c5e84abd1df3cc16514ecc3c'>random-55f3d469c5e84abd1df3cc16514ecc3c</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-random">
+				500
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">blinkroot</span><br>
+				<span class="tags">pwn</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Blinkroot</b> is a common herb that grows randomly on Dirt or Mud blocks, regardless of lighting or elevation, so long as there is room for it to grow and the blocks bear no grass of any kind. It is most commonly found in the underground layer and below, due to the general lack of grass in those areas. It can be harvested with any weapon or tool. Blinkroot can be planted manually using Blinkroot Seeds, which can also be planted in Clay Pots.<br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/d/d0/Blinkroot-stages.png?version=5f0d5024a3f9b5bbf7a79875aac3dfb2"></img><br />nc 52.68.211.239 10000</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/blinkroot_b872f15bde9878674eb8d46809a6c8564c7c1280'>blinkroot_b872f15bde9878674eb8d46809a6c8564c7c1280</a><br /><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/libc-3f6aaa980b58f7c7590dee12d731e099.so.6'>libc-3f6aaa980b58f7c7590dee12d731e099.so.6</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-blinkroot">
+				200
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">daybloom</span><br>
+				<span class="tags">misc</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Daybloom</b> is a type of Herb that appears as a small yellow flower with a straight stem. It grows naturally on grass in the Forest biome, where it can be collected with virtually any weapon or tool. Daybloom can also be planted in Clay Pots using Daybloom Seeds. Daybloom is not the most common of Herbs to find.<br><br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/8/82/Daybloom-stages.png?version=588defa98ea68b88aaa01d946ecf72cc"></img><br><br />nc 52.68.16.142 10003</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/daybloom.tgz_5ec6598557ee8b78e9fef23c081e3c3995086a14'>daybloom.tgz_5ec6598557ee8b78e9fef23c081e3c3995086a14</a></p>
+
+<p>The file "flag" is in the same directory as "daybloom_claypot".</p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-daybloom">
+				200
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">matrix X matrix</span><br>
+				<span class="tags">pwn</span>
+			</p></div>
+			 
+			<div class="description"><p>Matrix is magic ！！！<br />nc 52.68.53.28 31337</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/matrix-a0e5c5c0a8f05896a7f03d8ed4588027'>matrix-a0e5c5c0a8f05896a7f03d8ed4588027</a><br /><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/libc-3f6aaa980b58f7c7590dee12d731e099.so.6'>libc-3f6aaa980b58f7c7590dee12d731e099.so.6</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-matrix-X-matrix">
+				175
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">readable</span><br>
+				<span class="tags">pwn</span>
+			</p></div>
+			 
+			<div class="description"><p>Can you read everything ?<br />nc 52.68.53.28 56746</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/readable-9e377f8e1e38c27672768310188a8b99'>readable-9e377f8e1e38c27672768310188a8b99</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-readable">
+				300
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Fooddb</span><br>
+				<span class="tags">pwn</span>
+			</p></div>
+			 
+			<div class="description"><p>Do you want some delicious food ?<br />nc 52.68.53.28 0xdada</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/fooddb-e303c9bc733ca06044a7bd2b6ea12129'>fooddb-e303c9bc733ca06044a7bd2b6ea12129</a><br /><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/libc-3f6aaa980b58f7c7590dee12d731e099.so.6'>libc-3f6aaa980b58f7c7590dee12d731e099.so.6</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-Fooddb">
+				500
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">deathweed</span><br>
+				<span class="tags">pwn</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Deathweed</b> is a type of Herb which appears as a short, withered stalk. In a Corruption world, it can be found growing naturally on Corrupt Grass and Ebonstone, while in a Crimson world it grows on Crimstone and Crimson Grass. Deathweed can also be planted in a Clay Pot using Deathweed Seeds.<br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/5/58/Deathweed-stages.png?version=342ab42e2035abacf1364fc36b89460a"></img><br />nc 52.69.101.146 10005</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/deathweed_f505a49ec16ab6a6af877991786451b3e80518ba'>deathweed_f505a49ec16ab6a6af877991786451b3e80518ba</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-deathweed">
+				500
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">npc</span><br>
+				<span class="tags">reverse</span>
+			</p></div>
+			 
+			<div class="description"><p>NPC says "I am NPC."</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/npc-4bc7ebfe94c8fdc93832bc0e7af1279b'>npc-4bc7ebfe94c8fdc93832bc0e7af1279b</a></p></div>
+			 
+			<div class="hint"><p>Check the black/white connected components in 2D grid of cells.</p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-npc">
+				400
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">risky</span><br>
+				<span class="tags">reverse</span>
+			</p></div>
+			 
+			<div class="description"><p>RISKY machine</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/risky-13de1366628df39000749a782f69d894'>risky-13de1366628df39000749a782f69d894</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-risky">
+				300
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">vcopy</span><br>
+				<span class="tags">reverse</span>
+			</p></div>
+			 
+			<div class="description"><p>The compiler sucks</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/vcopy-105bec01b41b299429122f48a68fc9b1'>vcopy-105bec01b41b299429122f48a68fc9b1</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-vcopy">
+				400
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">Piranha Gun</span><br>
+				<span class="tags">stego</span>
+			</p></div>
+			 
+			<div class="description"><p>The <b>Piranha Gun</b> is a post-Plantera Hardmode ranged weapon that fires a single, returning "piranha" projectile that costs no ammunition.<br /><img src='http://hydra-media.cursecdn.com/terraria.gamepedia.com/a/a5/Piranha_Gun.png'></img> <br />nc 54.178.235.243 10004</p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-Piranha-Gun">
+				50
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">waterleaf</span><br>
+				<span class="tags">stego</span>
+			</p></div>
+			 
+			<div class="description"><p><b>Waterleaf</b> is a type of Herb which appears as a very small, aqua-colored sprout. It grows on Sand and Pearlsand blocks in any type of Desert biome and can be cut with virtually any weapon or tool. It can also be planted in Clay Pots using Waterleaf Seeds. The Waterleaf takes the longest to bloom out of all the herbs.<br><br /><img src="http://hydra-media.cursecdn.com/terraria.gamepedia.com/3/3d/Waterleaf-stages.png?version=b0b92318e66a6724745fbee3112fec78"></img> </p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/waterleaf_f33ea69faae677575c217eaa86f3244e973d2e91.avi'>waterleaf_f33ea69faae677575c217eaa86f3244e973d2e91.avi</a></p></div>
+			 
+			<div class="hint"><p>Hint1. With the &quot;waves&quot; covering the video, the flag can tolerate cropping and resizing.<br />Hint2. http://i.imgur.com/LAmaD8a.png<br /></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-waterleaf">
+				150
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">puzzleng</span><br>
+				<span class="tags">forensic</span>
+			</p></div>
+			 
+			<div class="description"><p>Next Generation of Puzzle!</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/puzzleng-edb16f6134bafb9e8b856b441480c117.tgz'>puzzleng-edb16f6134bafb9e8b856b441480c117.tgz</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-puzzleng">
+				250
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	
+	<li class="problem-entry unlocked">
+		<div class="problem-info">
+			<div class="title"><p>
+				<span class="tititle">unreadable</span><br>
+				<span class="tags">stego</span>
+			</p></div>
+			 
+			<div class="description"><p>Can you read me?</p>
+
+<p><a href='https://s3-ap-northeast-1.amazonaws.com/hitcon2015qual-static/unreadable-4b2868cc26a8dad5695e537a9dd8a164'>unreadable-4b2868cc26a8dad5695e537a9dd8a164</a></p></div>
+			 
+			<div class="hint"><p></p></div>
+		</div>
+		<ul class="flag-list">
+			
+			<li id="flag-id-unreadable">
+				100
+			</li>
+			
+		</ul>
+		<div class="clearfix"></div>
+	
+	</li>
+	
+	<li class="clearfix"></li>
+</ul>
+
+
+<script>
+ 
+var solved_flags = [""];
+solved_flags.forEach(function(flag){
+    $('#flag-id-' + flag.replace("\'", "\\'")).addClass('solved');
+});
+ 
+</script>
